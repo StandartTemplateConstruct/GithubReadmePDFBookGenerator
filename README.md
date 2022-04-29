@@ -12,4 +12,7 @@ Generate a PDF book out of Github README.md
  - Contents of the book:
    -  `README.md` of the first project
    -  All internal to this project Markdown documents in separate chapters
+   -  All source code listings to which links from Markdown documents are made
+     -  In literate programming format: two columns one is comments another is code
    -  Per section for each project that first project references, processed in the same way as first project
+   
